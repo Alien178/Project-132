@@ -21,7 +21,7 @@ radius = []
 gravity = []
 
 for data in planetData:
-    names.append(data[2])
+    names.append(data[1])
     mass.append(data[3])
     radius.append(data[4])
     gravity.append(data[5])
